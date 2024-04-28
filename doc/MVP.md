@@ -13,14 +13,13 @@ wget -O test/appple.png https://pngfre.com/wp-content/uploads/apple-95-270x300.p
 curl -F 'image=@test/apple.png' localhost:8000/img/
 ```
 # App work demonstration
-![Image](./demo_go_work_demonstration.mp4)
+https://files.fm/f/bbhamnct7h
 
 # ArgoCd setting up demo
-![image](./demo_go_ArgoCD_demonstration.mp4)
+https://files.fm/u/d4nz9sabmr
 
 # А ще я подумала, що треба свою програму простеньку писати, тож скину і її (зате навчилася маніфести писати 😅 )
 
-![image](./test_work_demo.mp4)
-![image](./test_ArgoCD_demo.mp4)
-
 https://files.fm/u/8smrrr3rpz
+https://files.fm/u/uzw2zx4k26
+
